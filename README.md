@@ -1,17 +1,20 @@
 # Beyzbol
 
-**Geliştirici: Ahmet Che**
+## iPhone’dan Windows bilgisayarına, Tek tuşla dosya aktarımı.
 
-[**Windows için Beyzbol’u indir**](https://github.com/AhmetYTK/beyzbol-releases/releases/latest)
+Fotoğraf ve videolarını aynı Wi-Fi ağı üzerinden Windows bilgisayarına gönder.
 
-Bu depo Windows x64 kurulumlarını ve otomatik güncelleme bilgisini içerir. Kaynak kodu burada yayınlanmaz.
+### [⬇ Windows için Beyzbol’u indir](https://github.com/AhmetYTK/beyzbol-releases/releases/latest)
 
-Windows 10/11 x64 için kurulum EXE’sini indirip çalıştırın. Ek .NET veya geliştirme aracı gerekmez. iPhone’da güncel QR kodunu Safari’de açın; iki cihaz aynı güvenilir Wi‑Fi’de olmalıdır.
+**Nasıl kullanılır?**
 
-**1.1.1’i bir kez kurun.** Sonraki sürümler açılışta kontrol edilir, HTTPS ile indirilip boyut ve SHA-256 kontrolünden geçirilir. Aktarım yokken uygulama kapatıldığında güncelleme kurulur. “Güncelle ve aç” düğmesi de kullanılabilir. Eski sürümlerde güncelleyici yoktur.
+1. İndirme sayfasında **Setup-x64.exe** ile biten dosyayı indir ve bilgisayarına kur.
+2. iPhone ve bilgisayarını aynı Wi-Fi ağına bağla.
+3. Beyzbol’u aç, iPhone’un kamerasıyla QR kodunu okut.
+4. Galerinden fotoğraf veya videolarını seç ve gönder.
 
-Dosya başına sınır 50 GiB. Alınan medya İndirilenler/Beyzbol klasöründedir; uygulamayı kaldırmak bunları silmez. IP adresi varsayılan olarak gizlidir; bağlantı ayrıntılarından görülebilir. QR ve telefon adres çubuğu yerel bağlantı adresini kullanır.
+**iPhone’a uygulama kurman gerekmez.** Dosyaların bilgisayarındaki **İndirilenler → Beyzbol** klasörüne kaydedilir. Yeni sürümler otomatik güncelleme ile gelir.
 
-Aktarım yerel HTTP kullanır; şifreli değildir. Kurulum dijital olarak imzalanmamıştır. Video okunamıyorsa iPhone’da önce Dosyalar’a kaydedip buradan seçin; aktarım boyunca tarayıcı önde ve ekran açık kalsın.
+Geliştirici: **Ahmet Che**
 
-© 2026 Ahmet Che. Uygulama paketini arkadaşlarınızla paylaşabilirsiniz. Birlikte dağıtılan üçüncü taraf lisansları geçerlidir.
+© 2026 Ahmet Che.
