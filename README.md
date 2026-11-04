@@ -1,20 +1,38 @@
 # Beyzbol
 
-## iPhone’dan Windows bilgisayarına, Tek tuşla dosya aktarımı.
+## Anıların iPhone’da. Şimdi bilgisayarında.
 
-Fotoğraf ve videolarını aynı Wi-Fi ağı üzerinden Windows bilgisayarına gönder.
+**iPhone’dan Windows’a, Tek tuşla dosya aktarımı.**
 
-### [⬇ Windows için Beyzbol’u indir](https://github.com/AhmetYTK/beyzbol-releases/releases/latest)
+Çektiğin fotoğrafları, uzun videoları ve birlikte seçtiğin dosyaları aynı Wi-Fi ağı üzerinden bilgisayarına gönder. Kablo arama, kendine mesaj atma, buluta yüklenmesini bekleme.
 
-**Nasıl kullanılır?**
+### [↓ Windows için ücretsiz indir](https://github.com/AhmetYTK/beyzbol-releases/releases/latest)
 
-1. İndirme sayfasında **Setup-x64.exe** ile biten dosyayı indir ve bilgisayarına kur.
-2. iPhone ve bilgisayarını aynı Wi-Fi ağına bağla.
-3. Beyzbol’u aç, iPhone’un kamerasıyla QR kodunu okut.
-4. Galerinden fotoğraf veya videolarını seç ve gönder.
+Windows 10 / 11 · **Setup-x64.exe** dosyasını indir ve kur.
 
-**iPhone’a uygulama kurman gerekmez.** Dosyaların bilgisayarındaki **İndirilenler → Beyzbol** klasörüne kaydedilir. Yeni sürümler otomatik güncelleme ile gelir.
+---
 
-Geliştirici: **Ahmet Che**
+### Galerinden seç. Bilgisayarına gönder.
 
-© 2026 Ahmet Che.
+| | |
+| :--- | :--- |
+| **Doğrudan galerinden** | Fotoğraf ve videolarını iPhone galerinden seç. Tek dosya ya da birden fazla dosyayı aynı gönderime ekle. |
+| **Kablo olmadan** | Dosyaların aynı Wi-Fi ağı üzerinden doğrudan Windows bilgisayarına ulaşır. Buluta yüklenmez. |
+| **iPhone’a kurulum yapmadan** | Kamerayla QR kodunu okut, Safari’de aç ve göndermeye başla. Hesap oluşturman gerekmez. |
+| **Nerede olduğunu bilerek** | Aktarımın ilerlemesini takip et. Tamamlanan dosyalarını bilgisayarındaki **İndirilenler → Beyzbol** klasöründe bul. |
+
+### İlk aktarımın birkaç adım uzağında.
+
+1. **Bilgisayarında Beyzbol’u aç.** iPhone ve bilgisayarın aynı Wi-Fi ağına bağlı olsun.
+2. **QR kodunu okut.** iPhone kameranla kodu tara ve bağlantıyı Safari’de aç.
+3. **Seç ve gönder.** Galerinden fotoğraf veya videolarını ekle, gönder düğmesine dokun.
+
+Aktarım bitene kadar Beyzbol’u ve iPhone’da Safari’yi açık, telefon ekranını uyanık tut. Aktarım hızı Wi-Fi bağlantına ve cihazlarına bağlıdır.
+
+---
+
+**Bir kez kur. Kullanmaya devam et.** Yeni sürümler uygulama açıldığında otomatik indirilir; aktarım yokken uygulamayı kapattığında kurulur.
+
+[**Beyzbol’u indir →**](https://github.com/AhmetYTK/beyzbol-releases/releases/latest)
+
+Geliştiren **Ahmet Che** · © 2026
